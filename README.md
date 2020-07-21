@@ -1,3 +1,3 @@
-# react-exercise-codesandbox at ADA IT Bootcamp
+# react-exercise at ADA IT Bootcamp
 
 Created with CodeSandbox
